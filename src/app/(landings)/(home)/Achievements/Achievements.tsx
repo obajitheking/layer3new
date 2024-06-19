@@ -16,7 +16,7 @@ function Achievements() {
               data-aos="fade-right"
               className="text-[32px] sm:text-[64px] leading-[80px] font-medium"
             >
-              The Journey so far
+              The journey so far
             </h2>
             <p
               data-aos="fade-down"

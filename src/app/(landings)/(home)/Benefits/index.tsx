@@ -15,9 +15,9 @@ const Benefits = () => {
             <div className="flex flex-col gap-3">
               <h4
                 data-aos="fade-right"
-                className="font-bold capitalize text-[40px] md:text-[50px] md:leading-[65px] mb-3"
+                className="font-bold  text-[40px] md:text-[50px] md:leading-[65px] mb-3"
               >
-                We deliver peace of Mind!
+                We deliver peace of mind!
               </h4>
               <div data-aos="fade-right" className="space-y-6">
                 {benefits.map((useCase) => (
@@ -40,7 +40,7 @@ const Benefits = () => {
                 data-aos="fade-right"
                 className="btn min-h-[50px] text-sm h-[50px] text-white font-medium bg-primary border-primary w-full max-w-[270px] rounded mt-10"
               >
-                Buy Enterprise Plan
+                Buy enterprise plan
               </Link>
             </div>
           </div>

@@ -16,7 +16,7 @@ function MainCta() {
             data-aos="zoom-in"
             className="mb-3 text-[40px] leading-[42px] font-bold text-white"
           >
-            Ready To Get Started
+            Ready to get started
           </h1>
           <p data-aos="zoom-in" className="mb-8 text-[#FFFFFFCC]">
             Empower your company&apos;s growth with our world-class solutions.

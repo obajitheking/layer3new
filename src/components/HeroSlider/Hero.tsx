@@ -27,7 +27,7 @@ export function Hero({
       <div className={className}>
         <h1
           data-aos="fade-down"
-          className="mb-6 capitalize text-2xl sm:text-[52px] sm:leading-[62.4px] text-white font-bold"
+          className="mb-6 text-2xl sm:text-[52px] sm:leading-[62.4px] text-white font-bold"
         >
           {title}
         </h1>

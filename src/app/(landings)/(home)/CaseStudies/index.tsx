@@ -15,7 +15,7 @@ function CaseStudies() {
     <section className="py-[50px]  bg-white text-brand-dark">
       <div className="container flex flex-col space-y-6">
         <h4 data-aos="fade-in" className="text-[32px] font-semibold">
-          Case Studies
+          Case studies
         </h4>
         {isLoading ? (
           <Row gutter={[16, 16]}>

@@ -1,6 +1,6 @@
 export const services = [
   {
-    title: "Network Solutions",
+    title: "Network solutions",
     description:
       "Layer3 Network Solutions pave the way for smart AI networks, delivering high-performance, secure connectivity. Seamlessly integrating AI technology, our networks ensure optimized operations, enabling businesses to stay agile and competitive in today's dynamic landscape.",
     actionLabel: "Explore network solutions",
@@ -8,7 +8,7 @@ export const services = [
     href: "/solutions/network",
   },
   {
-    title: "Access Solutions",
+    title: "Access solutions",
     description:
       "Enjoy seamless connectivity with Layer3's tailored Broadband access solutions. Benefit from high-speed internet access designed to meet your business and residential connectivity needs, ensuring uninterrupted communication and productivity with customizable bandwidth options.",
     actionLabel: "Explore access solutions",
@@ -16,7 +16,7 @@ export const services = [
     href: "/solutions/access",
   },
   {
-    title: "Cloud Solutions",
+    title: "Cloud solutions",
     description:
       "Layer3Cloud's solutions redefine scalability and efficiency with high-performance cloud services spanning two availability zones. Offering unparalleled flexibility, reduced latency, and security, our cloud technology empowers businesses to innovate and grow in the digital age.",
     actionLabel: "Explore cloud solutions",

@@ -58,7 +58,7 @@ function TestimonialVideoCarousel() {
       <div className="container">
         <div className="flex items-center justify-between">
           <div className="w-full max-w-[771px]">
-            <h2 className="text-white capitalize mb-3 text-[40px] font-bold">
+            <h2 className="text-white  mb-3 text-[40px] font-bold">
               What our customers are saying...
             </h2>
             <p className="text-white text-lg text-opacity-60 w-full max-w-[490px]">
